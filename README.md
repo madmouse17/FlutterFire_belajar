@@ -8,7 +8,7 @@ Install library [fcm/kawancoding](https://github.com/kawankoding/laravel-fcm)
 
 ```bash
    $recipients = [
-            'caHT8m68SKOFt3VKZj9nz1:APA91bG_gTaornODLWXB96yeJJ5UgAv2Iy2BQxWWsVB9CU-WbMnt8KkSxuM4BgREw4n3-yLPgBylyKHjA9QLGj-nv67m_s8yHVJxaDnuJrvvYuYUFAitI4M5P9eH1_Kvu2H2Mr3GN_Si'
+            'caHT8m68SKOF****'
         ];
   return  fcm()
     // ->toTopic('all') // $topic must an string (topic name)
