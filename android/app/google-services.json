@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053930032161",
+    "project_id": "coba-fcm-9f0bb",
+    "storage_bucket": "coba-fcm-9f0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053930032161:android:d053969fbc41ee4bca2760",
+        "android_client_info": {
+          "package_name": "com.example.plant_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053930032161-0kketupfk12nf86l7irbqa3q6cfibbfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfizcF6PgjFE6M22tp1QEwcYYs7JEi-Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053930032161-0kketupfk12nf86l7irbqa3q6cfibbfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
